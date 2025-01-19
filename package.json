@@ -1,0 +1,24 @@
+{
+  "name": "hello-react-from-npm",
+  "version": "1.0.0",
+  "description": "This is hello react by Bandi Sreekanth",
+  "keywords": [],
+  "homepage": "https://github.com/BANDI-SREEKANTH/react-world#readme",
+  "bugs": {
+    "url": "https://github.com/BANDI-SREEKANTH/react-world/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BANDI-SREEKANTH/react-world.git"
+  },
+  "license": "ISC",
+  "author": "Sreekanth Bandi",
+  "type": "commonjs",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
