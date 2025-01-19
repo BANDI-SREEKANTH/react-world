@@ -1,4 +1,4 @@
-Hi Everyone, I recently created a simple React app using Parcel as the build tool. Parcel helps improve the performance of a React application. Unlike the `create-react-app` command, which uses Webpack for development and production builds, Parcel allows for better optimization of the application.
+Hi Everyone, I recently created a simple React app using Parcel as the build tool. Parcel helps improve the performance of a React application and fast in buidling dev builds and production builds. Unlike the `create-react-app` command, which uses Webpack for builds in 'create-react-app', Parcel allows for better optimization of the application.
 
 Usages of Parcel:
 It boosts the react application very fast. Because of the fallowing advantages
